@@ -6,7 +6,7 @@ The screens of the app are
 
 ## screen 1
 
-![Alt text](https://1drv.ms/u/s!AukrRt-TOIKogUvuyaoGPEKCLyIf "Optional title")
+![Alt text](https://i.postimg.cc/cr1L6pS4/Screenshot-27.png "Optional title")
 
 ## screen 2
 
